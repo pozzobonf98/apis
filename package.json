@@ -1,0 +1,23 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "lesson 6.10",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pozzobonf98/apis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pozzobonf98/apis/issues"
+  },
+  "homepage": "https://github.com/pozzobonf98/apis#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
